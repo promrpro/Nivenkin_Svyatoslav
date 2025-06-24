@@ -1,2 +1,3 @@
-# Nivenkin_Svyatoslav
-About me
+# Мои проекты по Machine Learning
+
+Привет! Я начинающий разработчик. Здесь собраны мои учебные проекты.
